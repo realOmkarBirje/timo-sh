@@ -2,7 +2,7 @@
   "alias": "realomkarbirje",
   "build": {
     "env": {
-      "GITHUB_TOKEN": "@realomkarbirje"
+      "GITHUB_TOKEN": "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"
     }
   },
   "version": 2
