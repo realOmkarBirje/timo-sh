@@ -1,4 +1,4 @@
-const githubToken = process.env.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;
+const githubToken = process.env.GITHUB_TOKEN;
 
 if (!githubToken) {
   throw new Error("Missing environment variable GITHUB_TOKEN.");
