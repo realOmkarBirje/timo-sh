@@ -1,8 +1,8 @@
 {
-  "alias": "timo.sh",
+  "alias": "realomkarbirje",
   "build": {
     "env": {
-      "GITHUB_TOKEN": "@timo-sh-github"
+      "GITHUB_TOKEN": "@realomkarbirje"
     }
   },
   "version": 2
